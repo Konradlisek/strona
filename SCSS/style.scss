@@ -1,0 +1,19 @@
+@import "utils/variables";
+@import "utils/mixins";
+
+@import "base/normalize";
+@import "base/global";
+
+@import "layout/grid";
+@import "layout/nav";
+@import "layout/header";
+@import "layout/about";
+@import "layout/services";
+@import "layout/appointment";
+@import "layout/team";
+@import "layout/contact";
+@import "layout/footer";
+
+@import "componets/infoboxes";
+@import "componets/buttons";
+@import "componets/inputs";
